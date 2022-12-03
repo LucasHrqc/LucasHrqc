@@ -4,6 +4,7 @@
 </div>
 
 ##
+<h4> Technologies learned so far </h4>
 <div>
 <img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />       
@@ -14,6 +15,7 @@
 </div>          
 
 ##
+<h4> About me </h4>
 - 🔭 I’m currently working on Front-end VueJs and Back-end PHP application for Ezbz Software.
 - 🌱 I’m currently learning Vue 3 and React.
 - 🤔 I’m looking for help with React x.x
@@ -21,6 +23,7 @@
 - ⚡ Fun fact: I graduated in Chemical Engineering.
 
 ##
+<h4> Social's </h4>
 <div>
   <a href="https://www.linkedin.com/in/lucashrqc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
   <a href="mailto:lucas.hrqc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></img></a>
