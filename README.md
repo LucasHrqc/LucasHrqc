@@ -5,3 +5,6 @@
 - 📫 How to reach me: lucas.hrqc@gmail.com
 - ⚡ Fun fact: I graduated in Chemical Engineering.
 
+<div> 
+  <img height="180em" src="hhtps://github-readme-stats.vercel-app/api?username=LucasHrqc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
