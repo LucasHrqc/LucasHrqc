@@ -6,5 +6,5 @@
 - ⚡ Fun fact: I graduated in Chemical Engineering.
 
 <div> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasHrqc&card_width=1050px&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?hide_rank=true&username=LucasHrqc&card_width=1050px&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
