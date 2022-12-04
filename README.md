@@ -25,6 +25,7 @@
 <div>
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></picture>
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></picture> 
+<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></picture>
           
 </div>   
 
