@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I graduated in Chemical Engineering.
 
 ##
-<h3> Technologies learned so far </h3>
+<h3> Technologies learned so far and still learning... </h3>
 <div>
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></picture>
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></picture> 
