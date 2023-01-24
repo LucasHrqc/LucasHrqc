@@ -32,7 +32,7 @@
 
 ##
 <div> 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?hide_rank=true&username=LucasHrqc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?hide_rank=true&username=LucsasHrqc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <!--   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHrqc&hide_title=true&layout=compact&card_width=400px"/> -->
 
 <h3> Social's </h3>
