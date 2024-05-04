@@ -9,24 +9,23 @@
 - ⚡ Fun fact: I graduated in Chemical Engineering.
 
 ##
-<h3> Technologies learned so far and still learning... </h3>
+<h3> Technologies </h3>
 <div>
+<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></picture>      
+<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></picture>
+<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /></picture>
+<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></picture>
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></picture>
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></picture> 
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></picture>
-<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></picture>
-<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></picture>      
-<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></picture>
-<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /></picture>
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></picture>
+<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></picture>
+<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></picture> 
 </div>          
 
 ##
 <h3> Interested in... </h3>
 <div>
-<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></picture>
-<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></picture>
-<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></picture> 
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></picture>
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></picture> 
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></picture>     
