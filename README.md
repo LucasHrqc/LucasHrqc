@@ -1,7 +1,7 @@
 ##
 <h3> About me </h3>
 
-- Currently working in a Frontend CRM for [SGBR](https://sgbr.com.br/).
+- Currently working in a Front-end CRM for [SGBR](https://sgbr.com.br/).
 - Dealt with: Google Maps API | Swiper.js | Aos.js | Stripe.js | FullCalendar | Youtube API | CKEditor | Quasar Vue Framework | Laravel | PHP | DOMPdf | CRON/JOBS.
 - ⚡ Fun fact: I graduated in Chemical Engineering.
 
