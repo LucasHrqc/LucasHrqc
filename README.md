@@ -1,11 +1,8 @@
 ##
 <h3> About me </h3>
 
-- 🔭 I’m currently working on a CRM application with Vue3.js and PHP8.1 + Laravel 9 stack for EZBZ Software Startup. Throughout the year I had the opportunity to implement many functionalities, libraries and APIs mainly in frontend. 
-- 🌱 Looking forward to improve my skills in Vue 3, PHP and Laravel Framework and excited to learn new tecnologies and tools such as React.js, Tailwind, Next.js, Python and others.
-- Dealt with: Google Maps API, Swiper.js, Aos.js, Stripe.js, FullCalendar, Youtube API, CKEditor.
-- Implemented: SelectOptions, Datepicker, PHPMailer sender, Leads founder with GMaps and etc.
-- 📫 How to reach me: lucas.hrqc@gmail.com
+- Currently working in a Frontend CRM for [SGBR](https://sgbr.com.br/).
+- Dealt with: Google Maps API | Swiper.js | Aos.js | Stripe.js | FullCalendar | Youtube API | CKEditor | Quasar Vue Framework | Laravel | PHP | DOMPdf | CRON/JOBS.
 - ⚡ Fun fact: I graduated in Chemical Engineering.
 
 ##
