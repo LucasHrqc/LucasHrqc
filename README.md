@@ -20,7 +20,7 @@
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></picture>
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></picture>
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></picture>
-<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></picture> 
+<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /></picture> 
 </div>          
 
 ##
