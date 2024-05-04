@@ -13,7 +13,7 @@
 <div>
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></picture>      
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></picture>
-<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /></picture>
+<picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /></picture>
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></picture>
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></picture>
 <picture><img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></picture> 
