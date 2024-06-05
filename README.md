@@ -2,9 +2,9 @@
 <h3> About me </h3>
 
 - Roses are red, violets are blue, if you know how to center a div, let me know too 😂.
-- Currently working in a Front-end RP for [SGBR](https://sgbr.com.br/).
+- Currently working in a Front-end RP for [SGBR](https://sgbr.com.br/) and studying Computer Science.
 - Dealt with: Google Maps API | Swiper.js | Aos.js | Stripe.js | FullCalendar | Youtube API | CKEditor | Quasar Vue Framework | Laravel | PHP | DOMPdf | CRON/JOBS.
-- ⚡ Fun fact: I graduated in Chemical Engineering and I'm currently studying Computer Science.
+- ⚡ Fun fact: I graduated in Chemical Engineering.
 
 ##
 <h3> Technologies </h3>
