@@ -1,8 +1,8 @@
 ##
 <h3> About me </h3>
 
-- Currently working in a Front-end RP for [SGBR](https://sgmaster.com.br/) and studying Computer Science.
-- Dealt with: Google Maps API | Swiper.js | Aos.js | Stripe.js | FullCalendar | Youtube API | CKEditor | DOMPdf.
+- Currently working in a web front-end RP for [SGBR](https://sgmaster.com.br/), developing modern, intuitive and accessible solutions for customers.
+- Some libs and API's I've already dealt with: Google Maps API | Swiper.js | Qz-tray | Aos.js | Stripe.js | FullCalendar | Youtube API | CKEditor | DOMPdf.
 - ⚡ Fun fact: I graduated in Chemical Engineering.
 
 ##
