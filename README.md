@@ -1,7 +1,7 @@
 ##
 <h3> About me </h3>
 
-- Currently working in a Front-end RP for [SGBR (dev page to checkout the project)](https://hom.sgmaster.com.br/) and studying Computer Science.
+- Currently working in a Front-end RP for [SGBR](https://sgmaster.com.br/) and studying Computer Science.
 - Dealt with: Google Maps API | Swiper.js | Aos.js | Stripe.js | FullCalendar | Youtube API | CKEditor | Quasar Vue Framework | Laravel | PHP | DOMPdf | CRON/JOBS.
 - ⚡ Fun fact: I graduated in Chemical Engineering.
 
